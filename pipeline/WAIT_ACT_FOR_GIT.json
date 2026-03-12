@@ -1,0 +1,17 @@
+{
+	"name": "WAIT_ACT_FOR_GIT",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait1",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 11
+				}
+			}
+		],
+		"annotations": []
+	}
+}
